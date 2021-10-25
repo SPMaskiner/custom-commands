@@ -6,10 +6,12 @@ Start by running the `cp_to_home.sh` file.
 This will copy the custom commands along with the `.bashrc` file to your home directory
 Next time you start your bash window, it will use the cusom commands inside the `all_custom_commands.sh` file
 ## Writing your own custom commands
-Edit the `all_custom_commands.sh` file
+Edit the `all_custom_commands.sh` file \n
 Use the following syntax:
-`function <name>()
+```bash
+function <name>()
 {
 	//code goes here
-}`
+}
+```
 
