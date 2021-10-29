@@ -1,6 +1,8 @@
 # Custom Commands for GIT Usage
 
-Custom commands defined to be used during development using GIT as source control
+Custom commands defined to be used during development using GIT as source control.
+
+Works with MINGW-64 and Cygwin shells on Windows, and normal bash on Linux.
 ## How-To
 Start by running the `cp_to_home.sh` file.
 This will copy the custom commands along with the `.bashrc` file to your home directory.
